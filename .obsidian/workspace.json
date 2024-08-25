@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITI ก่อน Midterm/🏗️ Day 1.md",
+                "file": "🏗️ Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITI ก่อน Midterm/🏗️ Day 1.md",
+                "file": "🏗️ Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITI ก่อน Midterm/🏗️ Day 1.md",
+                "file": "🏗️ Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITI ก่อน Midterm/🏗️ Day 1.md"
+                "file": "🏗️ Day 1.md"
               }
             }
           }
@@ -146,11 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cbb020015135ba4",
+  "active": "b53cc5e557b9b341",
   "lastOpenFiles": [
-    "README.md",
     "🛰️ Day 8.md",
     "ITI ก่อน Midterm/🏗️ Day 1.md",
+    "🔐  Day5.md",
+    "📘 แนวจากรุ่นพี่ Midterm.md",
+    "💽  Day2.md",
+    "💻  Day4.md",
+    "🏗️ Day 1.md",
+    "ตัวอย่างการใช้ cache.canvas",
+    "☁️  Day 3.md",
+    "README.md",
     "ITI ก่อน Midterm/📘 แนวจากรุ่นพี่ Midterm.md",
     "ITI ก่อน Midterm/💽  Day2.md",
     "ITI ก่อน Midterm/💻  Day4.md",
